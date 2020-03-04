@@ -1,0 +1,215 @@
+As the coronavirus outbreak continues to dominate headlines, Japanese electronics company Sharp has announced it will use its Mie Prefecture plant to produce surgical masks.
+The masks have become a common site not just in Japan but across the globe as the co¡­ [+2728 chars]
+Manufacturers of low-cost 3D printers that use the masked stereolithography (MSLA) process are able to build their machines so cheaply because they¡¯re using repurposed smartphone or tablet LCD panels to mask off the UV backlight. Considering the quality you g¡­ [+2133 chars]
+Overview
+In this guide, we will cover how you can create the hardware and software for an Arduino LED rave mask. Feel free to refer to the GitHub repository for this Arduino project.
+The mask looks much better in person but here is the end result:
+Parts Ne¡­ [+22579 chars]
+Outbreaks of influenza represent an important health concern worldwide. In many cases, vaccines are only partially successful in reducing the infection rate, and respiratory protective devices (RPDs) are used as a complementary countermeasure. In devising a p¡­ [+975 chars]
+Article SummaryXTo put on a medical mask, first wash your hands with soap and water or hand sanitizer. Then, remove a new mask from the box and make sure there arent any tears or holes in it. Locate the top edge of the mask, which is the stiff, bendable edge ¡­ [+1188 chars]
+Getty
+Americas top doctor has urged people to stop buying face masks, insisting they are not effective in preventing the spread of coronavirus among the general population.
+Dr Jerome Adams, the surgeon general of the US, has echoed the Centers for Disease C¡­ [+3088 chars]
+Six feet. That's how far the Centers for Disease Control and Prevention (CDC) suggests you stay from anyone who might be sick.
+The agency is recommending that people avoid "close contact" with anyone showing flu-like symptoms. Specifically, the CDC defines c¡­ [+3776 chars]
+Hello and welcome back to TechCrunchs China Roundup, a digest of recent events shaping the Chinese tech landscape and what they mean to people in the rest of the world. This week, Apple made some major moves that are telling of its increasingly compliant beha¡­ [+5507 chars]
+With Delhi reporting its first confirmed case of coronavirus, more and more countries are reporting their first case of COVID-19 as the infectious disease continues to spread globally. Since the World Health Organization (WHO) has already declared the coronav¡­ [+3214 chars]
+While hoarders have been causing toilet paper sell-outs in Japan, there has been a rumor that popular Japanese YouTuber Hikakin is to blame. The above image is proof of his mass purchase. However, this isnt a recent screencap. Hikakin bought twenty-years wort¡­ [+1271 chars]
+SEOUL (Reuters) - From inside his car, a driver is checked for any fever or breathing difficulties by medical staff in protective clothing and goggles who lean in through the window at a new drive-thru coronavirus clinic in South Korea.
+He drove off after th¡­ [+2354 chars]
+Several public transportation agencies across the country are now taking steps to mitigate the spread of the novel coronavirus and subdue public fears of catching it.
+For example, New York's Metropolitan Transportation Authority announced that its trains, ca¡­ [+1450 chars]
+As the novel coronavirus spreads around the world, researchers are racing to develop medical treatments to halt it.
+But for now, hospitals and doctors can only treat the symptoms of COVID-19, helping keep people alive so their bodies can fight off the virus.¡­ [+4738 chars]
+We answer the often searched question: "What are the symptoms of coronavirus versus the flu?"
+USA TODAY
+Social media is being flooded with misinformation about coronavirus, and the World Health Organization<U+00A0>joined TikTok on Friday in an effort to stop some ¡­ [+2343 chars]
+As the coronavirus continues to spread around the world, protection is on everyones mind. Many celebrities have posted photos of themselves on social media wearing masks over their noses and mouths to try to ward off the virus. Some are wearing them on planes¡­ [+2297 chars]
+A historian who specializes in epidemics says the Chinese response to the coronavirus outbreak has left him "fearful" and "terrified."
+Frank M. Snowden, professor emeritus of history and history of medicine at Yale, spoke to the New Yorker on Tuesday about t¡­ [+2435 chars]
+The global death toll of coronavirus has reached nearly 3,000 people as countries around the world continue to report their findings to the World Health Organization.
+At least 70 cases and one death have been detected in the U.S., according to the Centers fo¡­ [+3357 chars]
+Stop breadboarding and soldering ¨C start making immediately! Adafruit¡¯s Circuit Playground is jam-packed with LEDs, sensors, buttons, alligator clip pads and more. Build projects with Circuit Playground in a few minutes with the drag-and-drop MakeCode program¡­ [+2034 chars]
+When a 35-year-old man went to a New York City hospital with a fever, cough, and aches, emergency-room staffers put him in isolation and suited up in gowns, gloves, and goggles. He'd recently returned from a business trip to Japan, where at least 230 people h¡­ [+8711 chars]
+Indonesian police seized over half a million face masks from a Jakarta-area warehouse after the country's first confirmed cases of coronavirus sparked panic buying and sent prices for prevention products skyrocketing.
+Authorities were questioning two people ¡­ [+1862 chars]
+Coronavirus Is Spreading: Should You Wear a Face Mask?
+While the spread of coronavirus, or COVID-19, appears to be slowing down in China, where it originated just a few months ago, the virus is really just getting started in the United States. As of this writing, health authorities have confirmed 96 cases and six¡­ [+6995 chars]
+If anyone can give<U+00A0>you<U+00A0>a disease, everyone is potentially a threat and<U+00A0>your<U+00A0>enemy. Crises such as coronavirus test social trust as well as science.
+College<U+00A0>campuses have proven<U+00A0>ripe incubators for fear<U+00A0>amid the spreading coronavirus outbreak, as shown by a s¡­ [+6567 chars]
+FOOTAGE has emerged showing a young man wearing a medical mask sprawled on a New York sidewalk.<U+00A0>
+The bizarre incident in Queens has sparked fears the 25-year-old, who appeared to have fainted, might be a victim of coronavirus.
+Read our<U+00A0>coronavirus live blog¡­ [+2395 chars]
+The man at the helm of the Shincheonji Church of Jesus, widely regarded as a doomsday cult, apologized on Monday for the role played by his followers in South Korea's coronavirus crisis.
+"Although it was not intentional, many people have been infected," Lee ¡­ [+6262 chars]
+Heading home from a Cambodian holiday, Julia Walentin and her friend, Dina Oetterli, spent their layover in Singapore barely eating, drinking too much alcohol, and not getting enough sleep.
+The trifecta ensured that the 26-year-old was in bad shape on Februa¡­ [+3582 chars]
+Diversified manufacturer 3M(NYSE:MMM) has increased production of its N95 face masks, anticipating higher demand due to the spread of the COVID-19 outbreak. According to the Centers for Disease Control and Prevention (CDC), the N95 mask is the most common typ¡­ [+1589 chars]
+Well friends, we¡¯ve come to our last installment of the monthly beauty box, and it¡¯s a great one. This box has a little something for everyonesome skincare, some makeup, and some tools, and includes six items valued at over $110! Click here to sign up for thi¡­ [+2909 chars]
+The World Health Organization confirmed on Tuesday that the global death rate for the novel coronavirus is 3.4% ¡ª higher than earlier estimates of about 2%.<U+00A0>
+The coronavirus outbreak that originated in Wuhan, China, has killed more than 3,100 people and infe¡­ [+3142 chars]
+On Friday, the World Health Organization made its debut on TikTok in an effort to combat rampant disinformation about the coronavirus.
+The news: The WHO launched its TikTok presence with a video on Friday about what coronavirus is, and a follow-up video on S¡­ [+1341 chars]
+We independently select these products¡ªif you buy from one of our links, we may earn a commission.
+Kids born in 2020 may never appreciate Friends the way you do, but you can still find a way to impose your tastes onto your children
+ teach your children abou¡­ [+1301 chars]
+<ol><li>
+Why the Silent Spread of Coronavirus Might Actually Be a Good Sign
+ </li><li>
+Lets Revisit Coronavirus Czar Mike Pences History on Public Health Initiatives
+ </li><li>
+So, Should You Panic About Coronavirus Now?
+ </li><li>
+Masks Are Wellness N¡­ [+5404 chars]
+Psychologytoday.com
+Psychologytoday.com
+TOKYO -- 
+Organizers for the 2020 Summer Olympics said that preparations for the upcoming event in Tokyo are "continuing as planned," despite rumors swirling that the games could be canceled or postponed due to an outbreak of the novel coronavirus.
+When ask¡­ [+5620 chars]
+Housing compounds in Wuhan are closing off many entrances to restrict movement. The banner says that even during the spring festival, staying at home is the best deal.
+Stringer/for NPR
+China's all-out war against coronavirus outbreak has many weapons.
+Ther¡­ [+4516 chars]
+The MTA is barring transit workers from wearing masks, amid rising fears that COVID-19 is spreading between New Yorkers.
+Ben Valdez, an operator on the 7 train, told Gothamist that he was forced to remove his respiratory mask on Monday by a supervisor, who w¡­ [+2007 chars]
+I¡¯ve been studying digital media ¡°viruses¡± for more than 20 years, and much of what we have discovered about them comes from the analogy to epidemiology and the behavior of real viruses.
+Here are some ideas that might be relevant as we come to grips with a s¡­ [+5487 chars]
+By: Trends Desk | New Delhi | 
+Published: March 1, 2020 3:04:51 pm
+The clip shows the girl looking puzzled after bitting into a biscuit but not able to eat it.Amid the coronavirus scare in China, a video of a young girl struggling to eat a biscuit while wea¡­ [+861 chars]
+When you buy through our links, we may earn money from our affiliate partners. Learn more.
+Spring is just around the corner. You're probably already thinking about spring cleaning your home and swapping out your bulky parka for a light denim jacket, but don'¡­ [+828 chars]
+This transformers mask
+By: Tech Desk | New Delhi | 
+Published: March 3, 2020 8:59:35 pm
+Amazon had sent emails to some third-party sellers stating that it would all listings that claim to be a treatment, cure or remedy for coronavirus. (Image: Bloomberg)Amazon states to have remo¡­ [+1933 chars]
+Dealnews.com
+Dege and Kym
+TribeTokes 
+Women-led CBD brand TribeTokes is announcing a new partnership this week that will bring its skincare line, TriBeauty, to the CBD Beauty Corner at Joel Warrens Salon Project located on the 7th floor of Saks Fifth Avenue Flagship in ¡­ [+14620 chars]
+Tony
+"
+.....
+3000
+3000
+11
+144N9510170
+28500/50000/
+OPPOOPPO12OPPO<U+00A0>OPPO<U+00A0>OPPO<U+00A0>25200
+12
+1
+0
+N95
+2
+~
+,XXXXps
+<U+00A0>01
+Google
+Google<U+00A0>Trendsface<U+00A0>mask¡¤
+21100
+249
+3000202011273000~~
+Ps32
+Noga Erez feat. Reo Cragun + ROUSSO: Views
+Tel Aviv-based musician Noga Erez may be speaking about her own industry when she drops the lines ¡°People buy views / I know it¡¯s old news / but I got bad news / for everybody¡± in her latest single, ¡°VIEWS,¡± but the¡­ [+3403 chars]
+Julia Roberts is kicking off the new month with her skincare regimen!
+On Sunday, the actress shared a selfie on social media featuring herself wearing an Aduro LED (Light Emitting Diode) face mask, and captioned the snap, ¡°March, I¡¯m all in!¡±
+In the photo, ¡­ [+2217 chars]
+Barred from leaving their neighborhoods, some Wuhan residents can only get food by group ordering groceries with their neighbors through Chinese messaging apps, such as We Chat, so that they can get food delivered to their homes, the AFP reported.<U+00A0>
+Last mont¡­ [+3892 chars]
+What You'll Be Creating Curious if you can you make clipping masks in InDesign? Masking is an essential skill to learn in many different design applications, and InDesign, of course, is no different. There are a few different ways in which we can make masks w¡­ [+6659 chars]
+BOCA RATON, Fla. As South Floridas warm, gentle breezes greet the NHLs 31 general managers here, winds of change are swirling around the emergency backup goaltender (EBUG) procedure.
+At this point, its too early to determine which direction those winds are b¡­ [+4550 chars]
+Health officials in two provinces confirmed four new cases of the novel coronavirus in Canada on Saturday,<U+00A0>but<U+00A0>insisted<U+00A0>the disease is not<U+00A0>widely<U+00A0>circulating in this country<U+00A0>despite the influx.
+The new cases ¡ª three in the Greater Toronto Area and one<U+00A0>near V¡­ [+3501 chars]
+The new coronavirus SARS-CoV-2 appears to be fairly easily spread. But the good news is that it's not among the most transmissible diseases out there.
+The new coronavirus spreads mostly through person-to-person contact within about a 6-foot (1.8 meters) radi¡­ [+4138 chars]
+We answer the often searched question: "What are the symptoms of coronavirus versus the flu?"
+USA TODAY
+She had returned from traveling<U+00A0>in Asia<U+00A0>and felt awful, so the 25-year-old woman went to her doctors office in Edgewater, New Jersey.<U+00A0>She told the staff ¡­ [+7732 chars]
+Citynews1130.com
+By: Trends Desk | New Delhi | 
+Published: March 4, 2020 12:50:05 pm
+The state¡¯s seniormost police official highlighted how people avoid wearing helmets despite knowing the risks.Even as measures are taken to curb the spread of the coronavirus in India and p¡­ [+5592 chars]
+On Tuesday, February 25, the Centers for Disease Control and Prevention gave an update on the status of COVID-19, the disease caused by the new coronavirus, in the U.S. Though there have been about 60 cases of the disease in the country so far, and only one f¡­ [+6513 chars]
+On Tuesday, February 25, the Centers for Disease Control and Prevention gave an update on the status of COVID-19, the disease caused by the new coronavirus, in the U.S. Though there have been about 60 cases of the disease in the country so far, and only one f¡­ [+6513 chars]
+Death Stranding le jeu de Kojima Productions, sera disponible simultan¨¦ment sur le Epic Games Store et sur Steam, ainsi quen version physique PC, le 2 juin prochain. Cette version du jeu proposera de nouvelles fonctionnalit¨¦s, dont un mode photo, un frame-rat¡­ [+1657 chars]
+Credit: AEW
+The live performance notwithstanding, the start of this match was filled with potential. This was a feud brimming with momentum.
+Butas much of an unpopular opinion as this may begiven the hype for this match, something was missing.
+That's odd, ¡­ [+909 chars]
+Image copyrightPA MediaImage caption
+ One of the banned adverts appeared on cnn.com
+Adverts by two companies which made false claims about using face masks to prevent the spread of coronavirus have been banned.
+The Advertising Standards Authority (ASA) rul¡­ [+2037 chars]
+Der Auftragsfertiger TSMC hat gemeinsam mit Broadcom einen Interposer mit 1.700 mm2 Fl<U+00E4>che entworfen. Ein solches passives Siliziumpl<U+00E4>ttchen wird genutzt, um multiple Chips wie Logic- und Speicher-Dies miteinander kommunizieren zu lassen. Exemplarisch spricht¡­ [+1706 chars]
+Engadget
+3M N95 particulate filtering face mask are seen at a store. (Photo by Yichuan Cao/NurPhoto via Getty ... [+] Images)
+NurPhoto via Getty Images
+Put down the mask, and step away. Unless you are a health care professional or someone like a hockey goalie or Bat¡­ [+10232 chars]
+Ohio Department of Health Director Amy Acton holds up a mask as she gives an update at MetroHealth ... [+] Medical Center Thursday, Feb. 27, 2020, in Cleveland, on the state's preparedness and education efforts to limit the potential spread of a new virus whi¡­ [+19062 chars]
+The volunteers and community staff are preparing fresh vegetables for citizens in the sealed city during the outbreaks of novel coronavirus pneumonia in Wuhan, Hubei,China on 25th February, 2020
+Photo by TPG/Getty Images
+<ul><li>Last month, some residents a¡­ [+4866 chars]
+As John Oliver popularizedand, more memorably, danced toon this week's coronavirus-focused edition of Last Week Tonight, a recent PSA from Vietnam has turned coronavirus caution into an earworm so catchy that hopefully even the grubbiest among us will be insp¡­ [+2794 chars]
+RICHMOND HEIGHTS, Mo. The US Surgeon General has a simple request for Americans who are concerned about the spread of the coronavirus. Dr. Jerome Adams sent out a tweet saying, "seriously people stop buying masks!"
+"They are not effective in preventing gener¡­ [+1339 chars]
+France ordered the nationwide requisition of all masks on Tuesday as the head of the World Health Organization (WHO) said hoarding, misuse and shortages of protective equipment was leaving doctors and nurses ¡°dangerously ill-equipped¡± to look after COVID-19 p¡­ [+1942 chars]
+The US government is promising to buy all the leftover face masks and respirators manufacturers may have on hand once the coronavirus scare subsides and demand for them dries up, Quartz has learned.
+Last week, a pre-solicitation issued to suppliers by the De¡­ [+1990 chars]
+When a 42-year-old Zamboni driver entered as an emergency goaltender and won an NHL game, it became one of the best stories in sports.
+But David Ayres going from practising with the Toronto Maple Leafs to playing against them in the thick of a playoff race a¡­ [+5751 chars]
+COVID-19. Should we freak out or stop freaking out? Is this the big one, a prelude to the big one, or just another one? A devastating plague or a souped-up cold or something in between? On Friday morning, two hours before the stock market opened and resumed i¡­ [+5015 chars]
+Famed tightrope walker Nik Wallenda has one glaring concern for his upcoming volcano stunt ... and it's all thanks to his better half.
+Nik joined us on "TMZ Live" Monday ahead of Wednesday's daredevil walk over the very active Masaya Volcano in Nicaragua. He¡­ [+1033 chars]
+The Legend of Zelda: Ocarina of Time, one of the most beloved games of all time, has always had a devoted community of speedrunnerspeople who try to complete the game as quickly as humanly possible. Ocarina of Time, released in 1998 for the Nintendo 64, usual¡­ [+6696 chars]
+Bernie Sanders' hard-left sympathies just keep bubbling up like an overheated pot of red stew.
+Read Full Article <U+00BB>
+There are very few beauty products that give me pause, but when I read the label on the new Bawdy Butt Sticks, I definitely said, "Wait, what?" The chunky, twist-up packaging looks a lot like a face mask or makeup stick, but its label clearly states otherwise¡­ [+2058 chars]
+Youtube.com
+A series of adverts for face masks have been banned for claiming to protect people from coronavirus.
+The adverts have been banned by the Advertising Standards Authority (ASA) following an investigation that found they were in breach of rules regarding social¡­ [+6180 chars]
+Reality television wouldn¡¯t be the same if it wasn¡¯t for the Kardashian-Jenner family.
+The famous bunch built an empire with their hit E! series Keeping Up with the Kardashians and are now known as one of the most famous and rich celebrity families in the wo¡­ [+3367 chars]
+Kim Kardashian and her older sister, Kourtney Kardashian, both rose to fame on Keeping Up with the Kardashians. Both sisters share a fondness of posting pictures of themselves on Instagram. 
+The two are also both parents. Kim Kardashian has four children wit¡­ [+3458 chars]
+Do we foresee another month of paper mask shortages? Not trying to be apocalyptic, folks...just reporting on the stars. Heres hoping that the March 9 full moon in health-and-wealth governess<U+00A0>Virgo, which dovetails with Mercury turning direct (forward), will b¡­ [+523 chars]
+The coronaviruss march across the globe, with 88 cases confirmed in the United States, has not prevented celebrities from taking to the sky. The good news is that many are doing so while taking precautions. The bad news is that we know this because so many ha¡­ [+2838 chars]
+BRAZIL - 2020/02/24: In this photo illustration a TikTok logo seen displayed on a smartphone. (Photo ... [+] Illustration by Rafael Henrique/SOPA Images/LightRocket via Getty Images)
+SOPA Images/LightRocket via Getty Images
+The World Health Organization is ¡­ [+7873 chars]
+INSIDE English Island 2019 3 
+2020 (coronavirus 2019-nCoV COVID-19) 697 
+1 31 World Health OrganizationWHOPublic Health Emergency of International ConcernPHEIC 603 3.55% 2 10 3500quarantine 14 14 
+ 2 80 2003 (Severe Acute Respiratory SyndromeSARS) 
+coldI'¡­ [+299 chars]
+The new coronavirus, aka COVID-19, has spread deeper and farther into our communities than currently known. It will infect a majority of Earths human populationmany estimates say up to 70 percent of us. The pandemic will be akin to an extremely severe seasona¡­ [+9743 chars]
+PC Valve CorporationHALF-LIFE
+HDSam****
+10DEATH STRANDING Official Score Expanded EditionLudvig ForsselSelections From The Art of Death StrandingTitan BooksLudens Mask***Lv.2*
+*
+What happened
+Shares of 3M(NYSE:MMM) have held up better than most large manufacturers in recent weeks, likely due to the company's business making the N95 face masks that are in demand amid the spread of the COVID-19 coronavirus. But shares traded down near¡­ [+1948 chars]
+Constant temperature checks, a "no mask, no service" ethos, and high-tech people-tracking: welcome to the new normal in China, where reminders of the<U+00A0>country's national mobilization<U+00A0>against the coronavirus lurk around every corner.
+China appears to be coming¡­ [+4540 chars]
+WENZHOU, China: Constant temperature checks, a no mask, no service ethos, and high-tech people-tracking: welcome to the new normal in China, where reminders of the countrys national mobilisation against the coronavirus lurk around every corner.
+China appears¡­ [+5030 chars]
+Wearing a mask isn't as important as washing your hands to avoid getting the coronavirus.
+Kate Taylor/Business Insider
+<ul><li>When I planned a trip throughout Asia, I did not expect my month to be spent following the news of the growing coronavirus outbrea¡­ [+7471 chars]
+Beijing (AFP) - Countries rushed to protect their supply of masks on Wednesday as panic buying, hoarding and theft spread over fears of the deadly coronavirus epidemic, with global health officials warning that stocks of protective gear were rapidly dwindling¡­ [+4766 chars]
+With the world reeling from the impact of the COVID-19, there continues to be growing concern among residents in several countries that are badly hit, including Hong Kong where over 100 people have been infected.
+A rumour recently did the rounds that actor J¡­ [+1306 chars]
+Posted 
+March 04, 2020 16:39:48
+As Australian authorities battle to contain the latest coronavirus outbreak, health experts and historians have turned to the history pages for insights into how the nation reacted to a similar viral outbreak over 100 years a¡­ [+5328 chars]
+The 1990s are a golden age of under-appreciated comic book movies. Sure, just about everyone loves the 1992 Batman flick, but what about Mystery Men? Or Darkman? Or, better still, 1994¡¯s The Mask? Based on the Dark Horse comics of the same name, Jim Carrey st¡­ [+779 chars]
+Seg¨²n informa The Hollywood Reporter, Paramount Pictures ha contratado al guionista Chris Bremner para escribir el guion de la nueva adaptaci¨®n basada en los juguetes de Hasbro, 'MASK'. Bremner ha sido el autor del libreto de 'Bad Boys for Life', un ¨¦xito cr¨ª¡­ [+1307 chars]
+Out of all the kit I own, my drone is probably the most flexible tool my the arsenal. Need to know what your roof looks like? Drone. Want a badass picture of the top of your head? Drone does that. Want to make it look like your significant other is being suck¡­ [+5506 chars]
+Excuse me, do you have time to die? If not, I understand but you might want to make time to watch this<U+00A0>No Time to Die TV spot, because it¡¯s loaded with new footage. That footage includes<U+00A0>Ana de Armas kicking some fool in the face and honestly, isn¡¯t that enou¡­ [+1899 chars]
+Japanese company Sharp has revealed that it will dedicate one of its TV factories in Japan to producing face masks amid the ongoing coronavirus outbreak. The company¡¯s facility, which is capable of producing high-end electronics, can churn out tens of thousan¡­ [+1721 chars]
+Photo by Free To Use Sounds on Unsplash
+Has Wuhan coronavirus got you thinking about wearing a face mask or respirator on your next flight?
+Below are a few things I learned when I worked in a Toronto hospital during the SARS crisis 17 years ago. (Compared t¡­ [+4832 chars]
+The coronavirus outbreak that originated in Wuhan, China has spread to at least 65 countries and has sickened more than 89,000 people, with more than 3,000 deaths. Governments have shut borders and imposed quarantines, and companies have imposed travel bans. ¡­ [+11075 chars]
+Diventate un bene di lusso o quasi e vendute illegalmente a prezzi spropositati le mascherine devono essere usate con attenzione come ogni presidio sanitario. Chi utilizza una mascherina per ridurre la diffusione del coronavirus, deve sapere non solo come ind¡­ [+1947 chars]
